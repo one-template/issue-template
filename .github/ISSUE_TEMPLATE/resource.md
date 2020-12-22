@@ -15,3 +15,5 @@ assignees: ''
 
 <!-- 列出你所提供资源的详细内容。 -->
 <!-- List the details of the resources you provide. -->
+
+<!-- From: https://github.com/one-template/issue-template -->

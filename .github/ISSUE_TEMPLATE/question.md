@@ -20,3 +20,5 @@ assignees: ''
 
 <!-- 如截图等其他信息可以贴在这里。 -->
 <!-- Other information such as screenshots can be posted here. -->
+
+<!-- From: https://github.com/one-template/issue-template -->
